@@ -4,3 +4,15 @@ Thus new approaches are needed to find good hyperparameters faster.
 In this project, we would like to choose a few deep-learning problems as they are usually long to train and compare different tuning approaches using the Ray Tune library. We would like to empirically quantify and qualify the speed for each method as well as the efficiency of the parameters found. 
 
 Grade: Unknown until end of January
+
+Version: Working with:
+        "!pip install ray==1.0.0\n",
+        "!pip install ax-platform #==0.1.17 Shoud be!\n",
+        "!pip install sqlalchemy==1.3.19 \n",
+        "!pip install nevergrad==0.4.2\n",
+        "!pip install configspace==0.4.15\n",
+        "!pip install zoopt==0.4.0\n",
+        "!pip install adabelief-pytorch==0.1.0\n",
+        "!pip install tensorboardX==2.1\n",
+        "!pip install HpBandSter==0.7.4"
+from a google collab environment (see IMDB in first batch)

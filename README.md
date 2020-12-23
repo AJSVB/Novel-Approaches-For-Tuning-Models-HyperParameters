@@ -6,13 +6,13 @@ In this project, we would like to choose a few deep-learning problems as they ar
 Grade: Unknown until end of January
 
 Version: Working with:
-        "!pip install ray==1.0.0\n",
-        "!pip install ax-platform #==0.1.17 Shoud be!\n",
-        "!pip install sqlalchemy==1.3.19 \n",
-        "!pip install nevergrad==0.4.2\n",
-        "!pip install configspace==0.4.15\n",
-        "!pip install zoopt==0.4.0\n",
-        "!pip install adabelief-pytorch==0.1.0\n",
-        "!pip install tensorboardX==2.1\n",
-        "!pip install HpBandSter==0.7.4"
+        !pip install ray==1.0.0,
+        !pip install ax-platform
+        !pip install sqlalchemy==1.3.19 
+        !pip install nevergrad==0.4.2
+        !pip install configspace==0.4.15
+        !pip install zoopt==0.4.0
+        !pip install adabelief-pytorch==0.1.0
+        !pip install tensorboardX==2.1
+        !pip install HpBandSter==0.7.4
 from a google collab environment (see IMDB in first batch)

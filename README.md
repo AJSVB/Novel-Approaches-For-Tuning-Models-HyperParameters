@@ -4,7 +4,7 @@ Thus new approaches are needed to find good hyperparameters faster.
 In this project, we would like to choose a few deep-learning problems as they are usually long to train and compare different tuning approaches using the Ray Tune library. We would like to empirically quantify and qualify the speed for each method as well as the efficiency of the parameters found. 
 
 
-<strong>Grade: Unknown until end of January</strong>
+<strong>Grade: 6/6 !!!</strong>
 
 
 
